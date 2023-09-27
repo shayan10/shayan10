@@ -37,8 +37,8 @@ Here are some of my most notable accomplishments so far:
 
 ### Resume 📄
 #### If you are interested in getting a more detailed idea about my skills, here's a link to my resume:
-🔗 [Link to resume](https://drive.google.com/file/d/1Lf2cDC5_VtUQto5YVXcZzTuqVm2bwjhx/view?usp=sharing)
+🔗 [View my resume](https://drive.google.com/file/d/1Lf2cDC5_VtUQto5YVXcZzTuqVm2bwjhx/view?usp=sharing)
 
-### Contact
+### Contact ☎️
 #### If you would like to get in touch to discuss ideas, projects, or anything else, let's connect on LinkedIn:
 [Link to my LinkedIn profile](https://www.linkedin.com/in/shayankhan283/)
