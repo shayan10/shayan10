@@ -11,7 +11,7 @@ Here are some of my most notable accomplishments so far:
 
 ## Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,django,flask,fastapi,ts,nodejs,express,react,aws,docker,redis">  
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,django,flask,fastapi,ts,nodejs,express,react,aws,docker,redis">  
 </div>
 <hr/>
 <p>I like to experiment with different technologies and continue to find new and betters way to do things. Here are some things I use on a daily basis: </p>
