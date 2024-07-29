@@ -25,15 +25,26 @@ Here are some of my most notable accomplishments so far:
 </ul>
 
 ## Projects
-  ### StockSense
-  An investment-tracker built using Node.js, React, and PostgreSQL thats connects to a user's brokerage and allows them to view all their investments in one place.
-  <p align="center">
-	  <img width="800" alt="Client Dashboard" src="https://github.com/shayan10/stock-sense/assets/13281021/f52b9252-4fbb-4b5f-a006-ffe55552b395">	
-  </p>
-  <ul>
-    <li>Docs: https://github.com/shayan10/stock-sense</li>
-    <li>Demo: https://stocksense.shayankhan.dev/</li>
-  </ul>
+### Privacy Policy Analyzer
+**Description**: Developed a privacy policy analyzer using PyTorch, Scikit-Learn, and CUDA to fine-tune Meta’s Llama-3 8B LLM for text classification. Implemented AWS Inferentia2 for deployment and utilized Haystack and SpaCy for text preprocessing.  
+**Link**: [Privacy Policy Analyzer](#)
+
+### Stock Tracker
+**Description**: Created a real-time stock tracking application using TypeScript, Express.js, PostgreSQL, and the Plaid API. Integrated WebSockets and React for live candlestick visualizations and used Docker Swarm for secure self-hosting.  
+**Link**: [Stock Tracker](#)
+
+### Asynchronous HTTP Server in C
+**Description**: Built a high-performance HTTP server in C with Epoll for handling over 10,000 concurrent requests and efficient file transfers, achieving speeds of ~1 GB/s.  
+**Link**: [Asynchronous HTTP Server in C](#)
+
+### Battleship Capstone Project
+**Description**: Designed a multi-threaded Battleship game application in Java with SQLite integration for tracking player stats and Elo-based matchmaking.  
+**Link**: [Battleship Capstone Project](#)
+
+### UIC Campus Navigator
+**Description**: Developed a campus navigation tool using C++ and OpenStreetMap data to determine optimal paths between campus areas, improving user navigation.  
+**Link**: [UIC Campus Navigator](#)
+
 
 ### Resume 📄
 If you are interested in getting a more detailed idea about my skills, here's a link to my resume:
