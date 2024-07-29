@@ -50,7 +50,7 @@ Here are some of my most notable accomplishments so far:
 If you are interested in getting a more detailed idea about my skills, here's a link to my resume:
 
 
-🔗 [View my resume](https://drive.google.com/file/d/1Lf2cDC5_VtUQto5YVXcZzTuqVm2bwjhx/view?usp=sharing)
+🔗 [View my resume](https://drive.google.com/file/d/1xwxkFdL0ylj3MGlPl0nAvi1WLoT-wrH9/view?usp=sharing)
 
 ### Contact ☎️
 If you would like to get in touch to discuss ideas, projects, or anything else, let's connect on LinkedIn:
