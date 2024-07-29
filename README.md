@@ -27,23 +27,23 @@ Here are some of my most notable accomplishments so far:
 ## Projects
 ### Privacy Policy Analyzer
 **Description**: Developed a privacy policy analyzer using PyTorch, Scikit-Learn, and CUDA to fine-tune Meta’s Llama-3 8B LLM for text classification. Implemented AWS Inferentia2 for deployment and utilized Haystack and SpaCy for text preprocessing.  
-**Link**: [Privacy Policy Analyzer](#)
+**Link**: [Privacy Policy Analyzer](https://github.com/shayan10/sindri)
 
 ### Stock Tracker
 **Description**: Created a real-time stock tracking application using TypeScript, Express.js, PostgreSQL, and the Plaid API. Integrated WebSockets and React for live candlestick visualizations and used Docker Swarm for secure self-hosting.  
-**Link**: [Stock Tracker](#)
+**Link**: [Stock Tracker](https://github.com/shayan10/stock-sense)
 
 ### Asynchronous HTTP Server in C
 **Description**: Built a high-performance HTTP server in C with Epoll for handling over 10,000 concurrent requests and efficient file transfers, achieving speeds of ~1 GB/s.  
-**Link**: [Asynchronous HTTP Server in C](#)
-
-### Battleship Capstone Project
-**Description**: Designed a multi-threaded Battleship game application in Java with SQLite integration for tracking player stats and Elo-based matchmaking.  
-**Link**: [Battleship Capstone Project](#)
+**Link**: [Asynchronous HTTP Server in C](https://github.com/shayan10/async_http_server)
 
 ### UIC Campus Navigator
 **Description**: Developed a campus navigation tool using C++ and OpenStreetMap data to determine optimal paths between campus areas, improving user navigation.  
-**Link**: [UIC Campus Navigator](#)
+**Link**: [UIC Campus Navigator](https://github.com/shayan10/openmap)
+
+### Battleship Capstone Project
+**Description**: Designed a multi-threaded Battleship game application in Java with SQLite integration for tracking player stats and Elo-based matchmaking.  
+**Link**: [Battleship Capstone Project](https://github.com/shayan10/battleship)
 
 
 ### Resume 📄
