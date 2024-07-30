@@ -7,7 +7,6 @@ Here are some of my most notable accomplishments so far:
 - ⭐ Reduced bottlenecks by 50% for [ATBN](https://atbn.io/) services by refactoring codebase to use asynchronous processing with FastAPI
 - ⭐ Eliminated 20% of ATBN's API overage costs by caching responses from third-party APIs
 - ⭐ Designed an in-house Market Sentiment Analysis service powered by OpenAI's DaVinci LLM
-- :star: Developed an REST API that handles in-app currency transactions with Stripe Connect and Django at [Pointklub Inc.](https://www.pointklub.com/)
 
 ## Skills
 <div align="center">
